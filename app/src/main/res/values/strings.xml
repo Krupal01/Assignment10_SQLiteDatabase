@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="StudentRegistration">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="StudentItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15dp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:lines">1</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
